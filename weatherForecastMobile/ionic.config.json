@@ -1,7 +1,0 @@
-{
-  "name": "weatherForecastMobile",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
